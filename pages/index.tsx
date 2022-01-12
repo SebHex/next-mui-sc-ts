@@ -1,9 +1,8 @@
+import Button from '@mui/material/Button'
 import type { NextPage } from 'next'
 
 const Home: NextPage = () => {
-  return (
-    <h1>Home</h1>
-  )
+  return <Button variant="contained">Hey! 😁</Button>
 }
 
 export default Home
