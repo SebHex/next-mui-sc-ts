@@ -4,13 +4,13 @@ import type { NextPage } from 'next'
 
 const Home: NextPage = () => {
   return (
-      <Buttons>
-        <MuiButton variant="contained">MUI button! 💎</MuiButton>
-        <CustomMuiButton variant="contained">
-          Custom MUI button! 💙
-        </CustomMuiButton>
-        <ScButton>SC button! 💅</ScButton>
-      </Buttons>
+    <Buttons>
+      <MuiButton variant="contained">MUI button! 💎</MuiButton>
+      <CustomMuiButton variant="contained">
+        Custom MUI button! 💙
+      </CustomMuiButton>
+      <ScButton>SC button! 💅</ScButton>
+    </Buttons>
   )
 }
 
