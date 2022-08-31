@@ -1,5 +1,7 @@
 # Next.js example
 
+> ⚠ IMPORTANT: [Emotion](https://emotion.sh/) is recommended over [styled-components](https://www.styled-components.com/), read more [here](https://github.com/SebHex/next-mui-sc-ts/issues/1).
+
 This is a minimal Next.js build example, using:
 
 - [Next.js](https://nextjs.org/) 12 (with [SWC](https://swc.rs/))
